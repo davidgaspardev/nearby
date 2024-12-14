@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "dev.davidgaspar.nearby"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "dev.davidgaspar.nearby"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
